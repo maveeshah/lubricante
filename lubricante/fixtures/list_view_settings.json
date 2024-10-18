@@ -1,0 +1,12 @@
+{
+    "disable_auto_refresh": 0,
+    "disable_comment_count": 0,
+    "disable_count": 0,
+    "disable_sidebar_stats": 0,
+    "docstatus": 0,
+    "doctype": "List View Settings",
+    "fields": "[{\"fieldname\":\"brand\",\"label\":\"Brand Name\"},{\"fieldname\":\"item_code\",\"label\":\"Item\"},{\"fieldname\":\"qty\",\"label\":\"Quantity\"},{\"fieldname\":\"custom_package_qty\",\"label\":\"Package Qty\"},{\"fieldname\":\"rate\",\"label\":\"Rate\"},{\"fieldname\":\"amount\",\"label\":\"Amount\"}]",
+    "modified": "2024-02-25 15:11:12.962187",
+    "name": "Sales Invoice Item",
+    "total_fields": "10"
+}
